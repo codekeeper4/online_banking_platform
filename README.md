@@ -1,8 +1,5 @@
 Built with Next.js, Horizon is a financial SaaS platform that connects to multiple bank accounts, displays transactions in real-time, allows users to transfer money to other platform users, and manages their finances altogether.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 34k+ members. It's a place where people help each other out.
-
-
 
 ⚙️ Tech Stack
 Next.js
@@ -46,7 +43,7 @@ Node.js
 npm (Node Package Manager)
 Cloning the Repository
 
-git clone https://github.com/adrianhajdin/banking.git
+git clone https://github.com/codekeeper4/online_banking_platform.git
 cd banking
 Installation
 
@@ -86,4 +83,4 @@ Replace the placeholder values with your actual respective account credentials. 
 Running the Project
 
 npm run dev
-Open http://localhost:3000 in your browser to view the project.# online_banking_platform
+Open http://localhost:3000 in your browser to view the project.
