@@ -12,7 +12,9 @@ const ibmPlexSerif = IBM_Plex_Serif({
 export const metadata: Metadata = {
   title: "Online Banking Platform",
   description: "A modern banking platform for everyone...",
-  icons: '/icons/logo.svg',
+  icons: {
+    icon: '/icons/logo.svg',
+  }
 };
 
 export default function RootLayout({
