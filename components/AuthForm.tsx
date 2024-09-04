@@ -55,7 +55,7 @@ const AuthForm = ({ type }: { type: string }) => {
           // ✅ This will be type-safe and validated.
 
           try {
-            // Sign up with  APP WRITE & create plaid link token
+            // Sign up with APP WRITE & create plaid link token
             const userData = {
                 firstName: data.firstName!,
                 lastName: data.lastName!,
